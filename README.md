@@ -1,2 +1,1 @@
 # ssrf-php
-s
